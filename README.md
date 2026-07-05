@@ -73,6 +73,6 @@ Ce projet est en cours de développement. Les différentes parties seront enrich
 
 # 👩‍💻 Auteur
 
-**Aicha Sy**
+**Aichatou Diallo Sy**
 
 Master 2 Réseaux, Sécurité et Systèmes Distribués (RSSD)
